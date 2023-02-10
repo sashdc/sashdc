@@ -10,6 +10,11 @@ UX/UI focused Full Stack Web Developer
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on all sorts of things, I'm constantly curious
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sashdc"><img src="https://github-readme-stats.vercel.app/api?username=sashdc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sashdc's GitHub stats" /></a>
+
+
 ### Skills
 
 
@@ -39,11 +44,6 @@ UX/UI focused Full Stack Web Developer
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/sashdc"><img src="https://github-readme-stats.vercel.app/api?username=sashdc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sashdc's GitHub stats" /></a>
 
 
 ### Socials
