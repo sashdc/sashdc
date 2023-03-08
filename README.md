@@ -7,7 +7,7 @@ UX/UI focused Full Stack Web Developer
 * 🌍  I'm based in Toronto, ON
 * 🖥️  See my portfolio at [SashDC - WebDev](http://sashdc.github.io/sash-portfolio)
 * ✉️  You can contact me at [sashdcdev@gmail.com](mailto:sashdcdev@gmail.com)
-* 🧠  I'm learning Python & Angular
+* 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on all sorts of things, I'm constantly curious
 
 <b>My GitHub Stats</b>
