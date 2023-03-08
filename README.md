@@ -10,11 +10,11 @@ UX/UI focused Full Stack Web Developer
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on all sorts of things, I'm constantly curious
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sashdc"><img src="https://github-readme-stats.vercel.app/api?username=sashdc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sashdc's GitHub stats" /></a>
 
-
+ -->
 ### Skills
 
 
