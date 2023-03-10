@@ -7,7 +7,7 @@ UX/UI focused Full Stack Web Developer
 * 🌍  I'm based in Toronto, ON
 * 🖥️  See my portfolio at [SashDC - WebDev](http://sashdc.github.io/sash-portfolio)
 * ✉️  You can contact me at [sashdcdev@gmail.com](mailto:sashdcdev@gmail.com)
-* 🧠  I'm learning Angular
+<!-- * 🧠  I'm learning Angular -->
 * 🤝  I'm open to collaborating on all sorts of things, I'm constantly curious
 
 <b>My GitHub Stats</b>
@@ -43,6 +43,7 @@ UX/UI focused Full Stack Web Developer
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://www.wordpress.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress.svg" width="36" height="36" alt="Wordpress" /></a>
 </p>
 
 
