@@ -8,7 +8,7 @@ UX/UI focused Full Stack Web Developer
 * 🖥️  See my portfolio at [SashDC - WebDev](http://sashdc.github.io/sash-portfolio)
 * ✉️  You can contact me at [sashdcdev@gmail.com](mailto:sashdcdev@gmail.com)
 <!-- * 🧠  I'm learning Angular -->
-* 🤝  I'm open to collaborating on all sorts of things, I'm constantly curious
+* 🤝  I'm open to collaborating on all sorts of things, I'm constantly curious and want to make things
 
 <b>My GitHub Stats</b>
 
